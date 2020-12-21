@@ -1,7 +1,7 @@
 // TODO: Include packages needed for this application
+const { writeFile, copyFile } = require('./utils/generateFile.js');
 const inquirer = require('inquirer');
-const fs = require('fs');
-const generateMarkdown = require("./utils/generateMarkdown.js");
+const generateMarkdown = require('./utils/generateMarkdown.js');
 
 // TODO: Create an array of questions for user input
 const promptQuestions = () => {
@@ -161,9 +161,17 @@ const promptQuestions = () => {
         .then(data => {
             return generateMarkdown(data);
         })
-        .then(pageMarkdown => {
-            return writeFile(pageMarkdown);
+        .then(Markdown => {
+            return writeFile(Markdown);
         })
+        .then(writeFileResponse => {
+            console.log(writeFileResponse);
+            return copyFile();
+        })
+        .then(copyFileResponse => {
+            console.log(copyFileResponse);
+        })
+
         .catch(err => {
             console.log(err);
         })
@@ -173,5 +181,8 @@ function init() {
 }
 
 init();
+
+
+
 
 
