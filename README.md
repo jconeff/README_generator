@@ -14,7 +14,7 @@ Node.js application that will generate a professional README file.
 To use README Generator, please install npm inquirer
 
 ## Usage 
-* First clone the repo
+ First clone the repo
 ![Screenshot 2020-12-21 184908](https://user-images.githubusercontent.com/65797801/102832749-49bdfd80-43bd-11eb-89a1-409ed0b397f7.png)
 
 Question prompts will appear in terminal for user to fill out. 
