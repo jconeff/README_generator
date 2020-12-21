@@ -22,7 +22,7 @@ Once all prompts and required prompts are filled out, the generated README file 
 ## Demo
 
 ## License
-[MIT license] (https://github.com/jconeff/README_generator/blob/main/LICENSE)
+[MIT license](https://github.com/jconeff/README_generator/blob/main/LICENSE)
 
 ## Credits
 * [UCF Coding BootCamp](https://github.com/coding-boot-camp/potential-enigma)
