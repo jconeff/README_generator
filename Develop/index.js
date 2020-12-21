@@ -44,7 +44,7 @@ const promptQuestions = () => {
                     return false;
                 }
             }
-        }
+        },
         {
             type: 'input',
             name: 'title',
