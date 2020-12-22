@@ -16,7 +16,7 @@ To use README Generator, please install npm inquirer
 ## Usage 
  First clone the repo
  <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/65797801/102832749-49bdfd80-43bd-11eb-89a1-409ed0b397f7.png">
+  <img width="500" height="350" src="https://user-images.githubusercontent.com/65797801/102832749-49bdfd80-43bd-11eb-89a1-409ed0b397f7.png">
 </p>
  
  
