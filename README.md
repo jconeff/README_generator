@@ -14,13 +14,13 @@ Node.js application that will generate a professional README file.
 To use README Generator, please install npm inquirer
 
 ## Usage 
- First clone the repo
+ * First clone the repo
  <p align="center">
   <img width="500" height="350" src="https://user-images.githubusercontent.com/65797801/102832749-49bdfd80-43bd-11eb-89a1-409ed0b397f7.png">
 </p>
  
  
-Then install npm inquirer within terminal.
+* Then install npm inquirer within terminal.
 After npm is installed, type "node index.js" within the command line to prompt questions. Question prompts will appear in terminal for user to fill out. 
  <p align="center">
   <img width="800" height="100" src="https://user-images.githubusercontent.com/65797801/102833225-7aeafd80-43be-11eb-8b17-54399fb391c8.png">
@@ -28,7 +28,7 @@ After npm is installed, type "node index.js" within the command line to prompt q
 
 
 
-Once all prompts and required prompts are filled out, the generated README file will be created in the ./dist folder.
+* Once all prompts and required prompts are filled out, the generated README file will be created in the ./dist folder.
  <p align="center">
   <img width="300" height="100" src="https://user-images.githubusercontent.com/65797801/102833303-b4bc0400-43be-11eb-9bf0-500f6b32b452.png">
 </p>
