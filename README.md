@@ -1,4 +1,8 @@
 # README Generator
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
+
 ## Description 
 Node.js application that will generate a professional README file.
 
