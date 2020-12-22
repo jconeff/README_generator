@@ -25,7 +25,10 @@ To use README Generator, please install npm inquirer
  
  
 * Then install npm inquirer within terminal.
-After npm is installed, type "node index.js" within the command line to prompt questions. Question prompts will appear in terminal for user to fill out. 
+After npm is installed, type:
+node index.js
+
+to prompt questions. Question prompts will appear in terminal for user to fill out. 
  <p align="left">
   <img width="800" height="100" src="https://user-images.githubusercontent.com/65797801/102833225-7aeafd80-43be-11eb-8b17-54399fb391c8.png">
 </p>
