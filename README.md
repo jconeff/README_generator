@@ -35,7 +35,7 @@ After npm is installed, type "node index.js" within the command line to prompt q
 
 
 ## Demo
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://drive.google.com/file/d/1nrE7tyM00k1kYUHR2Yxqx3RBOzDHSilL/view)
+https://drive.google.com/file/d/1nrE7tyM00k1kYUHR2Yxqx3RBOzDHSilL/view
 
 
 ## License
