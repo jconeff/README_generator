@@ -8,7 +8,7 @@ Node.js application that will generate a professional README file.
 * [Usage](#usage)
 * [Demo](#Demo)
 * [License](#license)
-* [License](#license)
+* [Credits](#credits)
 
 ## Installation 
 To use README Generator, please install npm inquirer
