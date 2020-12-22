@@ -42,4 +42,5 @@ https://drive.google.com/file/d/1nrE7tyM00k1kYUHR2Yxqx3RBOzDHSilL/view
 [MIT license](https://github.com/jconeff/README_generator/blob/main/LICENSE)
 
 ## Credits
-* [UCF Coding BootCamp](https://github.com/coding-boot-camp/potential-enigma)
+* Starter code provided by [UCF Coding BootCamp](https://github.com/coding-boot-camp/potential-enigma)
+* Coded by Jessica Coneff
